@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 import './App.css';
-import Repeator, { Component } from './components/Repeator'
+import Repeator from './components/Repeator';
 
 function App() {
   return (
